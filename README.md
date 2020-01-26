@@ -1,5 +1,5 @@
 # my-repository
-learn github and git
+some exercise  - Python
 
 import numpy as np
 
