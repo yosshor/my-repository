@@ -1,2 +1,3 @@
 # my-repository
-some exercise  - Python
+ - some exercise  - Python
+ - hangman game
